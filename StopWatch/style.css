@@ -1,0 +1,22 @@
+body {
+  margin: 10px;
+}
+button{
+padding: 7px;
+letter-spacing: 1px;
+}
+#start{
+  background-color: green;
+  color: #03fc13;
+border: 3px solid #03fc13;
+}
+#stop{
+  background-color: crimson;
+  color: #fa73e6;
+border: 3px solid #f765d0;
+}
+#reset{
+background-color: orangered;
+  color: khaki;
+  border: 3px solid darkkhaki;
+}
